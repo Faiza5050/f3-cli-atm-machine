@@ -1,6 +1,6 @@
 {
-  "name": "f3-project-cli-atm-machine",
-  "version": "2.0.2",
+  "name": "f3-project3-cli-atm-machine",
+  "version": "2.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
